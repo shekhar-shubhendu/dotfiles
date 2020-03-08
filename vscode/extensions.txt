@@ -1,39 +1,39 @@
-code --install-extension aaron-bond.better-comments
-code --install-extension abusaidm.html-snippets
-code --install-extension anseki.vscode-color
-code --install-extension bungcip.better-toml
-code --install-extension christian-kohler.npm-intellisense
-code --install-extension CoenraadS.bracket-pair-colorizer-2
-code --install-extension cssho.vscode-svgviewer
-code --install-extension DavidAnson.vscode-markdownlint
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension donjayamanne.githistory
-code --install-extension eamodio.gitlens
-code --install-extension eg2.vscode-npm-script
-code --install-extension esbenp.prettier-vscode
-code --install-extension hollowtree.vue-snippets
-code --install-extension HookyQR.beautify
-code --install-extension johnpapa.vscode-peacock
-code --install-extension JuanBlanco.solidity
-code --install-extension karigari.chat
-code --install-extension kisstkondoros.vscode-codemetrics
-code --install-extension lextudio.restructuredtext
-code --install-extension mgmcdermott.vscode-language-babel
-code --install-extension mikestead.dotenv
-code --install-extension mitchdenny.ecdc
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-python.python
-code --install-extension ms-vscode.Go
-code --install-extension ms-vsliveshare.vsliveshare
-code --install-extension ms-vsliveshare.vsliveshare-audio
-code --install-extension ms-vsliveshare.vsliveshare-pack
-code --install-extension octref.vetur
-code --install-extension redhat.vscode-yaml
-code --install-extension rust-lang.rust
-code --install-extension searKing.preview-vscode
-code --install-extension serayuzgur.crates
-code --install-extension streetsidesoftware.code-spell-checker
-code --install-extension vscode-icons-team.vscode-icons
-code --install-extension wix.vscode-import-cost
-code --install-extension xabikos.JavaScriptSnippets
-code --install-extension Zignd.html-css-class-completion
+aaron-bond.better-comments
+abusaidm.html-snippets
+anseki.vscode-color
+bungcip.better-toml
+christian-kohler.npm-intellisense
+CoenraadS.bracket-pair-colorizer-2
+cssho.vscode-svgviewer
+DavidAnson.vscode-markdownlint
+dbaeumer.vscode-eslint
+donjayamanne.githistory
+eamodio.gitlens
+eg2.vscode-npm-script
+esbenp.prettier-vscode
+hollowtree.vue-snippets
+HookyQR.beautify
+johnpapa.vscode-peacock
+JuanBlanco.solidity
+karigari.chat
+kisstkondoros.vscode-codemetrics
+lextudio.restructuredtext
+mgmcdermott.vscode-language-babel
+mikestead.dotenv
+mitchdenny.ecdc
+ms-azuretools.vscode-docker
+ms-python.python
+ms-vscode.Go
+ms-vsliveshare.vsliveshare
+ms-vsliveshare.vsliveshare-audio
+ms-vsliveshare.vsliveshare-pack
+octref.vetur
+redhat.vscode-yaml
+rust-lang.rust
+searKing.preview-vscode
+serayuzgur.crates
+streetsidesoftware.code-spell-checker
+vscode-icons-team.vscode-icons
+wix.vscode-import-cost
+xabikos.JavaScriptSnippets
+Zignd.html-css-class-completion
