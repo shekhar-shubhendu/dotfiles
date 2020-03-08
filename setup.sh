@@ -8,7 +8,7 @@ echo "✔ zsh as default shell"
 )
 exho "✔ installed fzf"
 
-## install pyenv and nvm
+# install pyenv and nvm
 [ -d  ~/.pyenv ] || git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 [ -d ~/.nvm ] || (
     export NVM_DIR="$HOME/.nvm" && (
@@ -18,6 +18,13 @@ exho "✔ installed fzf"
 ) && \. "$NVM_DIR/nvm.sh"
 )
 exho "✔ installed pyenv and nvm"
+
+# insall powerline fonts
+(
+    git clone https://github.com/powerline/fonts.git --depth=1 ~/.powerline
+    && ~/.powerline/install.sh
+    && rm -rf ~/.powerline
+)
 
 # install oh-my-zsh
 [ -d ~/.oh-my-zsh ] || git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
