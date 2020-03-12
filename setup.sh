@@ -6,7 +6,7 @@ echo "✔ zsh as default shell"
     git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf 
     && ~/.fzf/install --no-key-bindings --no-completion --no-update-rc
 )
-exho "✔ installed fzf"
+echo "✔ installed fzf"
 
 # install pyenv and nvm
 [ -d  ~/.pyenv ] || git clone https://github.com/pyenv/pyenv.git ~/.pyenv
@@ -17,7 +17,7 @@ exho "✔ installed fzf"
   git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`
 ) && \. "$NVM_DIR/nvm.sh"
 )
-exho "✔ installed pyenv and nvm"
+echo "✔ installed pyenv and nvm"
 
 # insall powerline fonts
 (
